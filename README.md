@@ -1,5 +1,4 @@
-MONIRUL LIVE TV 
-
+MONIRUL LIVE TV
 #EXTM3U
-#EXTINF:-1 tvg-name="MONIRUL LIVE TV" group-title="MONIRUL IPTV",MONIRUL LIVE TV
-https://github.com/MONIRULLIVETV/2026/raw/refs/heads/main/MONIRUL_LIVE_TV_TikTok_FullScreen_NoLyrics.mp4
+#EXTINF:-1,MONIRUL LIVE TV
+https://raw.githubusercontent.com/MONIRULLIVETV/2026/main/MONIRUL_LIVE_TV_TikTok_FullScreen_NoLyrics.mp4
