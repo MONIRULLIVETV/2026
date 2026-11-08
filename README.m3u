@@ -62,5 +62,60 @@ https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="channel_24" tvg-logo="http://monirul.bro.bd/assets/images/CHANNEL 241745044263.png" group-title="Bangla",CHANNEL 24
 http://103.135.253.32:8080/Channel-24/index.m3u8
 
+#EXTINF:-1 tvg-chno="20",Channel 9
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Ananda%20TV.webp" group-title="SM_IPTV",Ananda TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Mohona%20TV.webp" group-title="SM_IPTV",Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
+
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Rajdhani.webp" group-title="SM_IPTV",RAJDHANI TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nexus%20Television.webp" group-title="SM_IPTV",Nexus TV
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Channel%20S.webp" group-title="BANGLADESH",Channel S
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="gtv" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Gazi%20TV.webp" group-title="Bangla",GTV
+#http://103.135.253.32:8080/Gazi-TV/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-chno="27" tvg-id="ekattor_tv" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Ekattor%20TV.webp" group-title="Bangla",Ekattor Tv
+#http://103.135.253.32:8080/Ekattor-TV/index.m3u8
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-id="asiah_tv" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Asian%20TV.webp" group-title="Bangla",Asian Tv
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8?e=1782759193&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=443b4a26dc6a41e25431b578d006af43
+
+#EXTINF:-1 tvg-chno="29" tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/SATV.webp" group-title="Channels",SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8?e=1782759193&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=faa7bc1d2779ec18df93f4493afa3192
+
+#EXTINF:-1 tvg-chno="30" tvg-id="nagorik" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nagorik.webp" group-title="Bangla",NAGORIK
+https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
+https://box.bbaria.net:8083/Nagorik_TV/video.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Jamuna%20TV.webp" group-title="SM_IPTV",Jamuna TV
+#http://103.135.253.32:8080/Jamuna-TV/index.m3u8
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+
+#EXTINF:-1 tvg-chno="32"  tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://imglink.cc/cdn/2ODX-FAGY4.png" group-title="Recorded TV",Deepto TV
+https://nkafmbewiff.gpcdn.net/tile_6/master.m3u8
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
+#EXTINF:-1 tvg-chno="33" tvg-id="dbc_news" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/DBC%20News.webp" group-title="Bangla",DBC NEWS
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-id="news24hd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/News%2024%20HD.webp" group-title="Bangla",NEWS.24.HD
+#http://103.135.253.32:8080/News-24/index.m3u8
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bangla%20TV.webp?raw=true" group-title="Channels",Bangla TV
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
 
